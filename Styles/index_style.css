@@ -1,0 +1,42 @@
+body{
+    background-color:#121314;
+}
+h1 {
+	color: #98e491;
+	text-align: center;
+	font-size: 75px;
+	font-family: 'Lucida Console';
+}
+h2{
+	color: #98e491;
+	text-align: center;
+	font-size: 38px;
+	font-family: 'Lucida Console';
+}
+h3{
+	color: #98e491;
+	text-align: left;
+	font-size: 29px;
+	font-family: 'Lucida Console';
+}
+h4{
+	color: #98e491;
+	text-align: left;
+	font-size: 24px;
+	font-family: 'Lucida Console';
+}
+a:link, a:visited{
+	color: #afd5fb;
+	background-color: transparent;
+	text-decoration: none;
+}
+img{
+	border: 4px solid #98e491;
+	display: block;
+	margin: auto;
+}
+p{
+	color: #bcbebf;
+	font-size: 19px;
+	font-family: 'Lucida Console';
+}
